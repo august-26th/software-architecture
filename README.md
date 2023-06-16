@@ -3,6 +3,7 @@
 2. Analysis file
 3. Design file
 4. Android Studio file ->App.zip
+5. version
 Android Studio Dolphin | 2021.3.1 Patch 1
 Build #AI-213.7172.25.2113.9123335, built on September 30, 2022
 Runtime version: 11.0.13+0-b1751.21-8125866 aarch64
